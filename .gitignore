@@ -1,6 +1,5 @@
 .DS_Store
 .idea
-.vscode/settings.json
 .cursor/
 .spec-workflow
 /dist
@@ -36,3 +35,7 @@ test_data/
 coverage/
 .Trae/
 .worktrees/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
